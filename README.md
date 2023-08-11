@@ -1,5 +1,8 @@
 # 💫 About Me:
-- 🎓 Computer Engineering Student 👨‍💻<br><br>- 📫 How to reach me **paul.cruz.4.pc@gmail.com**<br><br>- 🌱 I’m currently learning **React.js**<br><br>
+- 🎓 Computer Engineering Student 👨‍💻.
+- 📫 How to reach me: **paul.cruz.4.pc@gmail.com**.
+- 🌱 Currently learning **React.js**.
+
 
 
 # 💻 Tech Stack:
