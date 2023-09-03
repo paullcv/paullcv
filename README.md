@@ -10,12 +10,12 @@
 # 📊 GitHub Stats:
 [![GitHub Streak](https://streak-stats.demolab.com?user=paullcv&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=paullcv&show_icons=true&theme=tokyonight)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paullcv&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paullcv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=paullcv&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paullcv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-contributor-stats.vercel.app/api?username=paullcv&limit=5&theme=chalk&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
