@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=paullcv&theme=nord&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=paullcv&limit=5&theme=chalk&combine_all_yearly_contributions=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paullcv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
