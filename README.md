@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paullcv&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=paullcv&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=paullcv&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=paullcv&limit=5&theme=chalk&combine_all_yearly_contributions=true)
