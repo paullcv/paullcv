@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🎓 Computer Engineering Student 👨‍💻.
+- 🎓 Systems Engineer 👨‍💻.
 - 📫 How to reach me: **paul.cruz.4.pc@gmail.com**.
-- 🌱 Currently learning **React.js**.
+- 🌱 Currently learning **Next.js**.
 
 
 
