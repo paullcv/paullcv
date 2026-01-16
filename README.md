@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🎓 Systems Engineer 👨‍💻.
 - 📫 How to reach me: **paul.cruz.4.pc@gmail.com**.
-- 🌱 Currently learning **Next.js**.
+- 🌱 Currently learning **Next.js, N8N, MCP**.
 
 
 
